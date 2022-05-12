@@ -1,5 +1,5 @@
 {
-  "name": "nhentai-api",
+  "name": "@ppodds/nhentai-api",
   "version": "0.0.1",
   "description": "nhentai api types",
   "main": "lib/index.js",
